@@ -5,3 +5,4 @@ private repo it asking permissions so we need to pass github username and toekn
 i added webhook to jenkins
 we need to paste jenkins url in payloadurl and add /github-webkook to url
 and save and refresh the server
+and goto jenkins job configure in build triggers select github webhook for gitscm polling.
